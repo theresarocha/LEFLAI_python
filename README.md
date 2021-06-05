@@ -6,4 +6,4 @@ Flai Inteligência Artificial https://www.flai.com.br/
 
 ## Projeto 1 - Jogo Roleta
 
-O objetivo é criar um programa que simule um pequeno jogo de roleta em um cassino.
+O objetivo deste projeto é criar um programa que simule um pequeno jogo de roleta em um cassino.
